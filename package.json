@@ -1,0 +1,22 @@
+{
+  "name": "navbar-package",
+  "version": "1.0.0",
+  "description": "Este repositório servirá como meu modelo de uma barra de navegação vertical que pode ser utilizada em vários sistemas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoUniverse/NavBar-model.git"
+  },
+  "author": "Tiago César da Silva Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiagoUniverse/NavBar-model/issues"
+  },
+  "homepage": "https://github.com/TiagoUniverse/NavBar-model#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.9.1"
+  }
+}
